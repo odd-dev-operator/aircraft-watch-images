@@ -1,4 +1,3 @@
-
 {
   "version": 1,
   "illustrations": [
@@ -10,7 +9,7 @@
     {
       "model": "A332",
       "airline": "TAP",
-      "file": "tap-airbus-a330-200.png"
+      "file": "tap-airbus-a330-200.PNG"
     }
   ]
 }
