@@ -1,5 +1,11 @@
 
 {
   "version": 1,
-  "illustrations": []
+  "illustrations": [
+    {
+      "model": "A320",
+      "airline": "TAP",
+      "file": "tap-airbus-a320.png"
+    }
+  ]
 }
