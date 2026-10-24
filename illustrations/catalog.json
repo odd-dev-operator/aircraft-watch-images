@@ -6,6 +6,11 @@
       "model": "A320",
       "airline": "TAP",
       "file": "tap-airbus-a320.png"
+    },
+    {
+      "model": "A332",
+      "airline": "TAP",
+      "file": "tap-airbus-a330-200.png"
     }
   ]
 }
