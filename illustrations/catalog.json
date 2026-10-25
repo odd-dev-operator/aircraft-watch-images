@@ -21,11 +21,11 @@
       "model": "A339",
       "airline": "TAP",
       "file": "tap-airbus-a330-900neo.PNG"
-    }
+    },
     {
-  "model": "A21N",
-  "airline": "TAP",
-  "file": "tap-airbus-a321neo.PNG"
-}
+      "model": "A21N",
+      "airline": "TAP",
+      "file": "tap-airbus-a321neo.PNG"
+    }
   ]
 }
