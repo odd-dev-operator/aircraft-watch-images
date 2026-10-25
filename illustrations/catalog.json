@@ -1,51 +1,55 @@
-
 {
-  "version": 1,
-  "illustrations": [
-    {
-      "model": "A320",
-      "airline": "TAP",
-      "file": "tap-airbus-a320.png"
-    },
-    {
-      "model": "A332",
-      "airline": "TAP",
-      "file": "tap-airbus-a330-200.PNG"
-    },
-    {
-      "model": "B738",
-      "airline": "TAP",
-      "file": "tap-boeing-737-800.PNG"
-    },
-    {
-      "model": "A339",
-      "airline": "TAP",
-      "file": "tap-airbus-a330-900neo.PNG"
-    },
-    {
-      "model": "A21N",
-      "airline": "TAP",
-      "file": "tap-airbus-a321neo.PNG"
-    },
-    {
-      "model": "A20N",
-      "airline": "TAP",
-      "file": "tap-airbus-a320neo.PNG"
-    },
-    {
-      "model": "A321",
-      "airline": "TAP",
-      "file": "tap-airbus-a321-200.PNG"
-    },
-    {
-      "model": "A319",
-      "airline": "TAP",
-      "file": "tap-airbus-a319-100.PNG"
-    },
-    {
-      "model": "E190",
-      "airline": "TAP Express",
-      "file": "tap-express-embraer-e190.PNG"
-    }
-  ]
+“version”: 1,
+“illustrations”: [
+{
+“model”: “A320”,
+“airline”: “TAP”,
+“file”: “tap-airbus-a320.png”
+},
+{
+“model”: “A332”,
+“airline”: “TAP”,
+“file”: “tap-airbus-a330-200.PNG”
+},
+{
+“model”: “B738”,
+“airline”: “TAP”,
+“file”: “tap-boeing-737-800.PNG”
+},
+{
+“model”: “A339”,
+“airline”: “TAP”,
+“file”: “tap-airbus-a330-900neo.PNG”
+},
+{
+“model”: “A21N”,
+“airline”: “TAP”,
+“file”: “tap-airbus-a321neo.PNG”
+},
+{
+“model”: “A20N”,
+“airline”: “TAP”,
+“file”: “tap-airbus-a320neo.PNG”
+},
+{
+“model”: “A321”,
+“airline”: “TAP”,
+“file”: “tap-airbus-a321-200.PNG”
+},
+{
+“model”: “A319”,
+“airline”: “TAP”,
+“file”: “tap-airbus-a319-100.PNG”
+},
+{
+“model”: “E190”,
+“airline”: “TAP Express”,
+“file”: “tap-express-embraer-e190.PNG”
+},
+{
+“model”: “E195”,
+“airline”: “TAP Express”,
+“file”: “tap-express-embraer-e195.PNG”
+}
+]
 }
