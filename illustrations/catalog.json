@@ -31,6 +31,11 @@
       "model": "A20N",
       "airline": "TAP",
       "file": "tap-airbus-a320neo.PNG"
+    },
+    {
+      "model": "A321",
+      "airline": "TAP",
+      "file": "tap-airbus-a321-200.PNG"
     }
   ]
 }
