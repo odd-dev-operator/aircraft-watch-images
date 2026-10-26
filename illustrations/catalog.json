@@ -51,6 +51,11 @@
       "model": "B738",
       "airline": "Ryanair",
       "file": "Ryanair-B737-800.PNG"
+    },
+    {
+      "model": "B38M",
+      "airline": "Ryanair",
+      "file": "Ryanair-B737-MAX8-200.PNG"
     }
   ]
 }
