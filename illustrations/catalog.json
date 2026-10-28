@@ -56,6 +56,11 @@
       "model": "B38M",
       "airline": "Ryanair",
       "file": "Ryanair-B737-MAX8-200.PNG"
+    },
+    {
+      "model": "A320",
+      "airline": "Lauda Europe",
+      "file": "Lauda-Airbus-A320.PNG"
     }
   ]
 }
