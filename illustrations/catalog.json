@@ -1,6 +1,25 @@
-
 {
-  "version": 1,
+  "version": 2,
+  "airlines": [
+    {
+      "name": "TAP Express",
+      "prefixes": ["TAP"],
+      "models": ["E190", "E195"]
+    },
+    {
+      "name": "TAP",
+      "prefixes": ["TAP"]
+    },
+    {
+      "name": "Ryanair",
+      "prefixes": ["RYR"]
+    },
+    {
+      "name": "Lauda Europe",
+      "prefixes": ["LDA"]
+    }
+  ],
+  "fallback": null,
   "illustrations": [
     {
       "model": "A320",
@@ -36,6 +55,11 @@
       "model": "A319",
       "airline": "TAP",
       "file": "tap-airbus-a319-100.PNG"
+    },
+    {
+      "model": "B738",
+      "airline": "TAP",
+      "file": "tap-boeing-737-800.PNG"
     },
     {
       "model": "E190",
